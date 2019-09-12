@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Gradle: :ErrorManager:">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/libs/ErrorManager.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

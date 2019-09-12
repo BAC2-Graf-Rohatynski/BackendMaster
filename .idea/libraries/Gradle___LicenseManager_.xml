@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Gradle: :LicenseManager:">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/libs/LicenseManager.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

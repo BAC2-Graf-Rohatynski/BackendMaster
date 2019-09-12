@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="backendmaster.BackendMaster.main" target="1.8" />
+      <module name="backendmaster.BackendMaster.test" target="1.8" />
+      <module name="masternetworkmanager.MasterNetworkManager.main" target="1.8" />
+      <module name="masternetworkmanager.MasterNetworkManager.test" target="1.8" />
+      <module name="masternetworkmanager.MasterNetworkMaster.main" target="1.8" />
+      <module name="masternetworkmanager.MasterNetworkMaster.test" target="1.8" />
+      <module name="masternetworkmaster.MasterNetworkMaster.main" target="1.8" />
+      <module name="masternetworkmaster.MasterNetworkMaster.test" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

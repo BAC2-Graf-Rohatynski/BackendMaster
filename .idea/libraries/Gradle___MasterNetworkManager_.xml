@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Gradle: :MasterNetworkManager:">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/libs/MasterNetworkManager.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
